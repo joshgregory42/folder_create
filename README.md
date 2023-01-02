@@ -1,5 +1,5 @@
 # Create Course Directory/Folder System
-This is a short script that lets you create folders for a course.
+This is a short script (folder_create.py) that lets you create folders for a course.
 
 ## Brief Outline
 1. Select which folder you would like all of the other folders to be based in.
