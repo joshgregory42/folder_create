@@ -18,3 +18,8 @@ In our example here, "senior_year_s1" would be the "Main Folder", which is the f
 2. This is going to be the name of your class, so something like "english" or "calculus".
 3. The program can create as many copies of homework or lab files that you would like, using the naming convention in the diagram, which is "hw_#", where "#" is the homework number. So if you put 5 for the number of homeworks, the homework folder will have five sub-folder, "hw_1", "hw_2", etc. up to "hw_5". The same system is used for the labs, with the prefix "lab" instead of "hw".
 4. You can press the 'q' key on your keyboard to quit the program at any time, or you can go through the entire program and let it run to completion. The program will tell you when it has finished running.
+
+
+## Testing Notes
+
+This program has been run successfully on Python 3.11.1 for Windows 11 and Python 3.10.6 for Ubuntu 22.04 LTS in WSL. 
